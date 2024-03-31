@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
 using UnityEngine.UI;
+using TMPro;
 public class JsonReadWriteSystem : MonoBehaviour
 {
-    public InputField idInputField;
-    public InputField nameInputField;
-    public InputField infoInputField;
+    public TMP_InputField idInputField;
+    public TMP_InputField nameInputField;
+    public TMP_InputField infoInputField;
 
     public void SaveToJson()
     {

@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{9E74FEA1-5421-25A5-F9FD-8489C3567D2B}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JsonReadWriteSystem.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WeaponDataFile.json">
     <Files>
       <File FileName="Assets/Model/WeaponData.cs" Line="9" Column="2" />
-      <File FileName="Assets/JsonReadWriteSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets/JsonReadWriteSystem.cs" Line="21" Column="57" />
+      <File FileName="Assets/WeaponDataFile.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
